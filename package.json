@@ -1,0 +1,37 @@
+{
+  "name": "mx.edu.utxj.ti.awos.bienes-raices",
+  "version": "1.0.0",
+  "description": "Proyecto de clase para la unidad 2, de la asignatura AWOS utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "Node saludo.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenNegrete06/BienesRaices_230570.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "Tailwind",
+    "Nodemon",
+    "NodeJS",
+    "Mailtrap",
+    "JWT"
+  ],
+  "author": "Karen Lizbeth Negrete Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenNegrete06/BienesRaices_230570/issues"
+  },
+  "homepage": "https://github.com/karenNegrete06/BienesRaices_230570#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
