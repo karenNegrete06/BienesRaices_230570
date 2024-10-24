@@ -9,10 +9,15 @@ Para poder demostrar y aprender la creacion de consumo de interfaces de programa
 ## Historia de Practicas 
 |No.|Fecha|Descripcion|Potenciador|Estatus|
 |--|--|--|--|--|
-|8.|17/10/2024|Nuevo Repositorio del proyecto implementando .gitignore|1|Activa|
+|8.|17/10/2024|Nuevo Repositorio del proyecto implementando .gitignore|1|⭐Activa|
+|9.|22/10/2024|Creación de una Aplicación Web usando Express| 11|⭐Activa|
+
+
+✅Finalizada
+
 
 ### Autor
 **Karen Lizbeth Negrete Hernández** / [@karenNegrete](https://github.com/karenNegrete06)
-Unidad 2
-Aplicaciones web Orientadas a Servicios 
-Octubre 2024
+Unidad 2 <br>
+Aplicaciones web Orientadas a Servicios <br> 
+Octubre 2024 <br>
